@@ -1,0 +1,26 @@
+
+.user-list {
+  padding: 1rem;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.user-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-item {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.user-item:hover {
+  background-color: #2980b9;
+}
